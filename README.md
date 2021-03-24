@@ -60,4 +60,5 @@ Web scraping is an automated method used to extract large amounts of data from w
   1.Finally, run the ***UI.py*** file that will start up the Dash server and we can check the working of our model either by typing or either by selecting the preloaded scrapped reviews.
   
  **NOTE- For the favicon , make sure that you make a separate folder with the name assets in your project folder and put the favicon image to this .There's no code for this , your browser will automatically load this. **
+![pie](https://user-images.githubusercontent.com/76965232/112261471-f4caa580-8c91-11eb-94d4-319aada1429c.png)
 
