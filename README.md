@@ -61,4 +61,6 @@ Web scraping is an automated method used to extract large amounts of data from w
   
  **NOTE- For the favicon , make sure that you make a separate folder with the name assets in your project folder and put the favicon image to this .There's no code for this , your browser will automatically load this. **
 ![pie](https://user-images.githubusercontent.com/76965232/112261471-f4caa580-8c91-11eb-94d4-319aada1429c.png)
+![bargraph](https://user-images.githubusercontent.com/76965232/112261770-79b5bf00-8c92-11eb-8b11-daf65d61a85a.png)
+
 
