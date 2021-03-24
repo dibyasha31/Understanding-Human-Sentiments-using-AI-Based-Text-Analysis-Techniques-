@@ -63,6 +63,8 @@ Web scraping is an automated method used to extract large amounts of data from w
 ![pie](https://user-images.githubusercontent.com/76965232/112261471-f4caa580-8c91-11eb-94d4-319aada1429c.png)
 ![bargraph](https://user-images.githubusercontent.com/76965232/112261770-79b5bf00-8c92-11eb-8b11-daf65d61a85a.png)
 ![wc](https://user-images.githubusercontent.com/76965232/112262015-ee88f900-8c92-11eb-9b88-bdf26999de81.png)
+![last](https://user-images.githubusercontent.com/76965232/112262427-a4544780-8c93-11eb-9ad5-5802ac77d3eb.png)
+
 
 
 
